@@ -1,0 +1,12 @@
+/*
+  see styles.scss for tree drag n drop styling
+*/
+.selectedItem {
+  background-color: blue;
+  color: white;
+}
+
+.item {
+  background-color: white;
+  color: black;
+}
